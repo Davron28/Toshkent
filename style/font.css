@@ -1,0 +1,12 @@
+@font-face {
+    font-family: "RB";
+    src: url(../style/fonts/Roboto-Bold.ttf);
+}
+@font-face {
+    font-family: "RL";
+    src: url(../style/fonts/Roboto-Light.ttf);
+}
+@font-face {
+font-family: "RR";
+src: url(../style/fonts/Roboto-Regular.ttf);
+}
